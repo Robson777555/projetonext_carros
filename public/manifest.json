@@ -1,0 +1,26 @@
+{
+  "name": "Esplayer Cars",
+  "short_name": "Esplayer Cars",
+  "description": "A melhor loja de carros esportivos do Brasil",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#eb2d2d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["automotive", "business"],
+  "lang": "pt-BR"
+}
